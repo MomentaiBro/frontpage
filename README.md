@@ -41,11 +41,11 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 </br>
 </br>
 
-### Languages & Frameworks
+## Languages & Frameworks
 
-<p aling="center">
-</br>
+<div aling="center">
 These are the languages i've been focusing on and feel comfortable developing in. 
+</br>
 </br>
 <img src="./assets/css.svg" alt="css badge" style="vertical-align:top margin:6px 4px">
 <img src="./assets/html.svg" alt="html badge" style="vertical-align:top margin:6px 4px">
@@ -55,6 +55,6 @@ These are the languages i've been focusing on and feel comfortable developing in
     </br>
     </br>
     I can also speak Japanese, Spanish, English as well! 
-</p>
+</div>
 
 ## Don't Be Shy - Reach Out!
