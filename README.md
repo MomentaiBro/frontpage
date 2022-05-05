@@ -40,9 +40,13 @@ I'm a software engineer with a passion for front-end web development. My backgro
 </br>
 </br>
 
-### Languages
+### Languages & Frameworks
 
 <p aling="center">
-<img src="./assets/css.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+<img src="./assets/css.svg" alt="css badge" style="vertical-align:top margin:6px 4px">
+<img src="./assets/html.svg" alt="html badge" style="vertical-align:top margin:6px 4px">
+<img src="./assets/js.svg" alt="javascript badge" style="vertical-align:top margin:6px 4px">
+<img src="./assets/react.svg" alt="react badge" style="vertical-align:top margin:6px 4px">
+<img src="./assets/bootstrap.svg" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
     
 </p>
