@@ -10,9 +10,9 @@ Anthropologist ▷ Educator ▷ FullStack Web Devloper
 </div>
 <div align="left">
 </br>
-Hello! Welcome to my ReadMe. My name is Alexander. You can just call me Xan! Trained by Flatiron School as a Full-Stack Software Engineer, but have a passion for Frontend Development.
+Laliho! Welcome to my Github ReadMe. My name is Alexader 🌻
 </br>
-With my background, I make an excellent addition to any team 
+I'm a fullstack software engineer with a passion for ƒrontend web development. I also have a personality that's sure to add a warm vibrancy to your next team! 🥳
 </br>
 </div>
 
