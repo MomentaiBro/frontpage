@@ -13,9 +13,8 @@ Anthropologist ▷ Educator ▷ Full-Stack Dev
 LALIHO! My name is Alexader 🌻 but please call me Xan. 
 </br>
 </br>
-Forever curious and ready to learn something new, I'm a software engineer with an exuberant personality and a passion for creating cool landing pages! I'm inspired by my love for helping others, collecting stories, and those little moments where a code hasn't been working all day and you FINALLY figure it out. 
+Forever curious and ready to learn something new, I'm a software engineer with an exuberant personality and a passion for ideas! I'm inspired by my love for helping others, collecting stories, and those little moments where a code hasn't been working all day and you FINALLY figure it out. 
 </div>
-</br>
 
 ## Facts About Me :
 
