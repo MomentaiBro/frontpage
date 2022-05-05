@@ -38,7 +38,7 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 
 - 🍻 "Cheers"
 - 👏🏽 "Teamwork makes the Dream™ work, folks"
-- 🍇 _ various quotes from deceased Vine _
+- 🍇 _various quotes from deceased Vine_
 - 🇯🇵 - 大丈夫 ("Dai - jou - bu")
 
 </br>
