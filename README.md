@@ -42,12 +42,11 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 - 🇯🇵 - 大丈夫 ("Dai - jou - bu")
 
 </br>
-</br>
 
 ## Languages & Frameworks 👨🏽‍💻:
 
 <div align="center">
-These are the languages i've been focusing on and feel comfortable developing in. 
+These are the languages I work with on and feel comfortable developing in. 
 </br>
 </br>
 <img src="./assets/css.svg" alt="css badge" style="vertical-align:top margin:6px 4px">
@@ -57,5 +56,5 @@ These are the languages i've been focusing on and feel comfortable developing in
 <img src="./assets/bootstrap.svg" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
     </br>
     </br>
-    I can also speak Japanese 🇯🇵 & Spanish 🇲🇽 as well! 
+    I can also speak 🇯🇵 Japanese & 🇲🇽 Spanish as well! 
 </div>
