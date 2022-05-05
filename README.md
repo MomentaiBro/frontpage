@@ -20,8 +20,6 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 
 <img hight="500" width="300" alt="IMG" align="right" src="./assets/Girl-with-a-Pearl-Earring-1665-Johannes-Vermeer.jpeg">
 
-</br>
-
 ### - Where my noggin is at these days 🧠:
 
 - 🌱 Essentialism
@@ -36,10 +34,17 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 - 🖼 Art History
 - 🥘 && Cooking
 
+### - Will often hear me say...
+
+- 🍻 "Cheers"
+- 👏🏽 "Teamwork makes the Dream™ work, folks"
+- 🍇 _ various quotes from deceased Vine _
+- 🇯🇵 - 大丈夫 ("Dai - jou - bu")
+
 </br>
 </br>
 
-## Languages & Frameworks
+## Languages & Frameworks 👨🏽‍💻:
 
 <div align="center">
 These are the languages i've been focusing on and feel comfortable developing in. 
@@ -54,5 +59,3 @@ These are the languages i've been focusing on and feel comfortable developing in
     </br>
     I can also speak Japanese 🇯🇵 & Spanish 🇲🇽 as well! 
 </div>
-
-## Don't Be Shy - Reach Out!
