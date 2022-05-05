@@ -1,3 +1,5 @@
-# Hi! How Are Ya!?
+# Momentai
 
-My name is Alexander Sherwin, but most people tend to call me "Xan."
+<div align="center">
+    <img height="250" alt="GIF" src="assests/Terriermon2.gif">
+</div>
