@@ -4,8 +4,8 @@
 
 <div>
     <div align="left">
-        <p>Hello! My name is Alexander</p>
-        <p>&& I'm always learning 📝 </p>
+        <span>Hello! My name is Alexander</span>
+        <span>&& I'm always learning 📝 </span>
     </div>
     <img height="250" align="right" alt="GIF" src="./assests/Terriermon2.gif">
 </div>
