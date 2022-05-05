@@ -20,7 +20,7 @@ I'm a software engineer with a passion for front-end web development.
 
 ## About Me :
 
-<img hight="300" width="200" alt="IMG" align="right" src="./assets/Girl-with-a-Pearl-Earring-1665-Johannes-Vermeer.jpeg">
+<img hight="500" width="300" alt="IMG" align="right" src="./assets/Girl-with-a-Pearl-Earring-1665-Johannes-Vermeer.jpeg">
 
 ### - Where my noggin is at these days 🧠:
 
