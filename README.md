@@ -18,13 +18,13 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 
 ## Facts About Me :
 
-<img hight="500" width="300" alt="IMG" align="right" src="./assets/Girl-with-a-Pearl-Earring-1665-Johannes-Vermeer.jpeg">
-
 ### - Where my noggin is at these days 🧠:
 
 - 🌱 Essentialism
 - 🌱 Best Practices for structuring modern React Apps
 - 🌱 Generative Art
+
+<img hight="500" width="300" alt="IMG" align="right" src="./assets/Girl-with-a-Pearl-Earring-1665-Johannes-Vermeer.jpeg">
 
 ### - My Inspiration Stations 🚂 :
 
