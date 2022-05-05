@@ -1,8 +1,6 @@
 # Momentai 🌿
 
-> It means "Take it easy!"
-> <br>
-> <img height="250" align="left" alt="GIF" src="./assests/Terriermon2.gif">
+<img height="250" align="left" alt="GIF" src="./assests/Terriermon2.gif">
 
 ### Hello! My name is Alexander
 
