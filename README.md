@@ -4,14 +4,14 @@
 
 ### It means, _"Take It Easy"_
 
-<div align="right">
+<div align="center">
 Anthropologist ▷ Educator ▷ FullStack Web Devloper
-<br>
-<br>
+</br>
+</br>
 Hello! Welcome to my ReadMe. My name is Alexander. You can just call me Xan! Trained by Flatiron School as a Full-Stack Software Engineer, but have a passion for Frontend Development.
-<br>
+</br>
 With my background, I make an excellent addition to any team 
-<br>
+</br>
 <div>
 
 ## About Me
