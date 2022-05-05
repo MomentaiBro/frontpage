@@ -5,7 +5,7 @@
 ### It means, _"Take It Easy"_
 
 <div align="center">
-Anthropologist ▷ Educator ▷ Full-Stack Software Engineer
+Anthropologist ▷ Educator ▷ Full-Stack Dev
 </br>
 </div>
 <div align="left">
@@ -13,16 +13,19 @@ Anthropologist ▷ Educator ▷ Full-Stack Software Engineer
 LALIHO! My name is Alexader 🌻 but please call me Xan. 
 </br>
 </br>
-I'm a software engineer with a passion for front-end web development.  
+I'm a software engineer with a passion for front-end web development.
 </div>
+</br>
 
 ## About Me :
 
-### - Learning 🧠:
+### - Where my noggin is at these days 🧠:
 
 - 🌱 Essentialism
+- 🌱 Best Practices for structuring modern React Apps
+- 🌱 How to make cool things with p5js
 
-### - Inspiration Station 🚂 :
+### - My Inspiration Stations 🚂 :
 
 - 🐲 Watching Anime / 📚 Reading Manga
 - 👾 Playing video games
