@@ -43,7 +43,7 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 
 ## Languages & Frameworks
 
-<div aling="center">
+<div align="center">
 These are the languages i've been focusing on and feel comfortable developing in. 
 </br>
 </br>
