@@ -10,7 +10,7 @@ Anthropologist ▷ Educator ▷ Full-Stack Dev
 </div>
 <div align="left">
 </br>
-LALIHO! My name is Alexander 🌻 but please call me Xan. 
+Alexander here! 🌻 but call me Xan. 
 </br>
 </br>
 Forever curious and ready to learn something new, I'm a software engineer with an exuberant personality and a passion for ideas! I'm inspired by my love for helping others, collecting stories, and those little moments where a code hasn't been working all day and you FINALLY figure it out. 
@@ -44,7 +44,7 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 ## Languages & Frameworks 👨🏽‍💻:
 
 <div align="center">
-These are the languages/frameworks I like to play around with...
+These are the languages / frameworks I like to play around with...
 </br>
 </br>
 <img src="./assets/css.svg" alt="css badge" style="vertical-align:top margin:6px 4px">
