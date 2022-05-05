@@ -13,7 +13,7 @@ Anthropologist ▷ Educator ▷ Full-Stack Dev
 LALIHO! My name is Alexader 🌻 but please call me Xan. 
 </br>
 </br>
-Forever curious and ready to learn something new, I'm a software engineer with an exuberant personality and a passion for putting humanity **back** into the tech field one project at a time! I'm inspired by my love for helping others, collecting stories, and those little moments where a code hasn't been working all day and you FINALLY figure it out. 
+Forever curious and ready to learn something new, I'm a software engineer with an exuberant personality and a passion for creating cool landing pages! I'm inspired by my love for helping others, collecting stories, and those little moments where a code hasn't been working all day and you FINALLY figure it out. 
 </div>
 </br>
 </br>
@@ -21,6 +21,9 @@ Forever curious and ready to learn something new, I'm a software engineer with a
 ## Facts About Me :
 
 <img hight="500" width="300" alt="IMG" align="right" src="./assets/Girl-with-a-Pearl-Earring-1665-Johannes-Vermeer.jpeg">
+
+</br>
+</br>
 
 ### - Where my noggin is at these days 🧠:
 
@@ -54,7 +57,7 @@ These are the languages i've been focusing on and feel comfortable developing in
 <img src="./assets/bootstrap.svg" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
     </br>
     </br>
-    I can also speak Japanese, Spanish, English as well! 
+    I can also speak Japanese 🇯🇵 & Spanish 🇲🇽 as well! 
 </div>
 
 ## Don't Be Shy - Reach Out!
