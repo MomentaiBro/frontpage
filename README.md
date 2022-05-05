@@ -1,10 +1,8 @@
-# Momentai 🌿
+# Momentai 🌿 _it means take it easy_
 
 <img height="250" align="left" alt="GIF" src="./assests/Terriermon2.gif">
 
-### Hello! My name is Alexander
-
-#### && I'm always actively learning 📝
+### How's it going? My name is Alexander
 
 <br>
 <br>
