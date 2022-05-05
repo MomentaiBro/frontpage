@@ -1,10 +1,9 @@
-# Momentai 🌿 _it means take it easy_
+# Momentai 🌿
 
 <img height="250" align="left" alt="GIF" src="./assests/Terriermon2.gif">
 
-### How's it going? My name is Alexander
+### How's it going? My name is Alexander!
 
 <br>
-<br>
-
-# About Me
+- 
+## About Me
