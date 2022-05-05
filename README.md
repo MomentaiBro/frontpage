@@ -5,15 +5,26 @@
 ### It means, _"Take It Easy"_
 
 <div align="center">
-Anthropologist ▷ Educator ▷ FullStack Web Devloper
+Anthropologist ▷ Educator ▷ Full-Stack Software Engineer
 </br>
 </div>
 <div align="left">
 </br>
-Laliho! Welcome to my Github ReadMe. My name is Alexader 🌻 but please call me Xan. 
+LALIHO! My name is Alexader 🌻 but please call me Xan. 
 </br>
 </br>
-I'm a fullstack software engineer with a passion for ƒrontend web development. I also have a personality that's sure to add a warm vibrancy to your next team! 🥳
+I'm a software engineer with a passion for front-end web development.  
 </div>
 
-## About Me
+## About Me :
+
+### - Learning 🧠:
+
+- 🌱 Essentialism
+
+### - Inspiration Station 🚂 :
+
+- 🐲 Watching Anime / 📚 Reading Manga
+- 👾 Playing video games
+  - 👾 Currently Playing: Elden Ring + FF14
+- 🖼 Art History
