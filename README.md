@@ -13,7 +13,7 @@ Anthropologist ▷ Educator ▷ Full-Stack Dev
 Alexander here 🌻 but you can call me Xan. 
 </br>
 </br>
-Forever curious and ready to learn something new, I'm a software engineer with an exuberant personality and a passion for ideas! I'm inspired by my love for helping others, collecting stories, and those little moments when you finally figure out a solutuion to the code that's been confusing you all day. 
+Forever curious and ready to learn something new, I'm a software engineer with an exuberant personality and a passion for ideas! I'm inspired by my love for helping others, collecting stories, and those little moments when you finally figure out a solution to the code that's been confusing you all day. 
 </div>
 
 ## Facts About Me :
